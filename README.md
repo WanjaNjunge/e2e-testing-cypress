@@ -14,7 +14,7 @@ This directory contains an OpenCart project set up with Docker, along with end-t
 Clone this repository to your local machine and navigate to the repo:
 
 ```bash
-git@github.com:WanjaNjunge/opencart.git
+git@github.com:WanjaNjunge/e2e-testing-cypress.git
 ```
 ### Using Bitnami's OpenCart Package
 - This project utilizes the Bitnami package for OpenCart. Bitnami packages provide a reliable and secure way to deploy popular open-source software applications.
