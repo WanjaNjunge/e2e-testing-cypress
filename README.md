@@ -46,7 +46,7 @@ The repository includes e2e automated testing suite for the [OpenCart Demo](http
 
 ### Workflow Configuration
 - The workflow is triggered on pushes to the master branch and pull requests being opened or synchronized.
-- The workflow configuration is defined in the .github/workflows/end-to-end-testing.yml file. It sets up services for MariaDB and OpenCart using Docker containers and then runs Cypress tests.
+- The workflow configuration is defined in the .github/workflows/e2e-tests.yml file. It sets up services for MariaDB and OpenCart using Docker containers and then runs Cypress tests.
 
 ### Running the Workflow
 - Push your changes to the master branch or open a pull request.
