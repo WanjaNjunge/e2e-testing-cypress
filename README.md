@@ -1,6 +1,6 @@
 # OpenCart Project Setup and End-to-end Testing with Docker
 
-This directory contains an OpenCart project set up with Docker, along with end-to-end testing using GitHub Actions workflows.
+This repository contains an OpenCart project set up with Docker, along with end-to-end testing using GitHub Actions workflows.
 
 ## Setup
 
